@@ -1,6 +1,13 @@
 # Methods
 
-## Overview
+## Learning Goals
+
+- Describe how methods can define new routines and procedures for our code.
+- Define a method with the `def` keyword, supply the method's body, and close
+  the method definition with the `end` keyword.
+- Invoke a method by calling it by name.
+
+## Introduction
 
 In this lesson, we'll introduce methods, distinguish them from data types, and
 cover how to create and execute them in your Ruby program.
@@ -10,13 +17,6 @@ provided code examples. Alternatively, in the `lib` folder, there is also a
 file, `example.rb`, that you can use to copy the code examples into. You can run
 this file from the lesson's main directory by typing `ruby lib/example.rb` to
 see what it produces.
-
-## Objectives
-
-- Describe how methods can define new routines and procedures for our code.
-- Define a method with the `def` keyword, supply the method's body, and close
-  the method definition with the `end` keyword.
-- Invoke a method by calling it by name.
 
 ### Video
 
